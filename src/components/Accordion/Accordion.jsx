@@ -1,5 +1,4 @@
-import { useContext } from "react";
-import { createContext, useState } from "react";
+import { useContext, createContext, useState } from "react";
 import AccordionItem from "./AccordionItem";
 import AccordionTitle from "./AccordionTitle";
 import AccordionContent from "./AccordionContent";
